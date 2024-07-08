@@ -1,0 +1,12 @@
+F.x_ananassa v1.0.a1	maker-Fvb6-1-augustus-gene-75.53
+S.tuberosum v6.1	Soltu.DM.07G015080
+A.hypochondriacus v2.1	AH000800
+H.annuus r1.2	HanXRQChr00c0702g0576841
+D.alata v1.1	Dioal.0722s0011
+T.aestivum v2.2	Traes_2AS_C3EF3A27F
+V.vinifera v2.1	VIT_217s0000g03690
+S.lycopersicum ITAG5.0	Solyc02G000799
+E.californica_var._Aurantiaca_Orange_King_Plant1.1_HAP1 v1.1	EscalH1.2G431800
+B.vulgaris EL10_1.0	EL10Ac2g03510
+Z.mays RefGen_V4	Zm00001d034120
+V.darrowii v1.2	Vadar_g8263
